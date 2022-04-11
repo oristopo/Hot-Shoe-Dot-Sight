@@ -4,12 +4,12 @@
 The Astromania Silver Plate appears to be simply a short chunk of aluminum extrusion  
 with holes drilled and 2 tapped for tiny dark sets screws.  
 Those set screws are loose in the ziploc envelope with the extrusion;  
-best open the ziplock over a white towel.
+best open the ziplock over a white towel.  
 That there is a market to justify manufacturing this custom extrusion is great, IMO.  
 The lower dovetail matches Picatinny rail.  
 ![Astromania Silver Plate dovetails](Picatinny_hotshoe.jpg)  
 
-Any number of red dot reflex sights are available fitting Picatinny rails.
+Any number of red dot reflex sights are available fitting Picatinny rails.  
 This one is among the more common low-cost lighter weight open versions:
 ![red-green dot sight](RedDotB4.jpg)  
 Note that it would interfere with viewfinder access, even with an extended eyecup.  
