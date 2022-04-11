@@ -12,9 +12,9 @@ The lower dovetail matches Picatinny rail.
 Any number of red dot reflex sights are available fitting Picatinny rails.
 This one is among the more common low-cost lighter weight open versions:
 ![red-green dot sight](RedDotB4.jpg)  
-Not that it would interfere with viewfinder access, even with an extended eyecup.  
+Note that it would interfere with viewfinder access, even with an extended eyecup.  
 
-Astromania's Silver Plate is shorter than a reflex sight's Picatinny dovetail clamp,
+Astromania's Silver Plate is shorter than a reflex sight's Picatinny dovetail clamp,  
 but need not resist recoil shocks in photographic usage.
 ![silver plate in reflex sight dovetail](dovetail.jpg) 
 
