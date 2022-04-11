@@ -23,7 +23,7 @@ Forehead clearance can be obtained by
   Those tiny dark set screws might vibrate loose   
   while sawing and/or grinding away that aluminum; better to remove them.  
   ![silver plate in 7D II](plate7D.jpg)  
-  ![first cut by Dremel](dremel.jpg)  
+  ![first cut by Dremel](Dremel.jpg)  
   ![hacksaw and file](cut.jpg)   
 * then flipping it around.
   ![flipped](flipped.jpg)  
